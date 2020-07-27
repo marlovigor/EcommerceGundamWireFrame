@@ -1,0 +1,10 @@
+1.users should be able to log in, sign up.
+2.ability to brows enventory without logining in.
+3.ability to  select from a multiple time lines to get correct product.
+4.users should be able to filtr search based on gundam grade.
+5.empliment the feature to watch embed clips from the selected century.
+6.users should be have the ability to comment of listed item.
+7.users have the ablity to add items to cart.
+8.users should change the quantity of items in cart.
+9.users will be able to delete items from cart.
+10.users should be able to check out cart when done.
